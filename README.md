@@ -1,7 +1,7 @@
 # Body mass index - Calculator
 Developled in <strong>Python</strong> using <strong>Tkinter</strong>
 <h3>BMI Calculator</h3
-<p>This is 1.0 version and it's final version</p>
+<p>This is 1.0 version</p>
 <h3>How to use the calculator?</h3>
 <h4>In the first top field you have to enter your height. The height must be in metric system - centimeter(cm) </h4>
 <h4>In the second field you have to enter your wieght. The weight must be in kilograms(kg)</h4>
